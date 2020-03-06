@@ -1,0 +1,8 @@
+{
+    "search.exclude": {
+        "/*.pyc": true
+    },
+    "files.exclude": {
+        "*.pyc": true
+    }
+}
